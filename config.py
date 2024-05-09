@@ -1,0 +1,2 @@
+TELEGRAM_BOT_TOKEN = ""
+RPC_URL = ""
